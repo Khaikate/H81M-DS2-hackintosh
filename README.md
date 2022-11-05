@@ -2,6 +2,9 @@
 
 ## PC specification
 
+macOS Monterey 12.6 + OpenCore 0.8.5
+
+
 | Part  | Info |
 | ------------- | ------------- |
 | Mainboard | Gigabyte H81M-DS2 |
