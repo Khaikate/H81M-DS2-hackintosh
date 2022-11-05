@@ -19,6 +19,7 @@ macOS Monterey 12.6 + OpenCore 0.8.5
 
 - [x] Windows 10
 - [x] macOS Monterey 12.6
+- [ ] macOS Ventura 13.0 (Graphics not working)
 
 ## What is working
 
