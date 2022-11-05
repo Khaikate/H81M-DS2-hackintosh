@@ -18,7 +18,7 @@ macOS Monterey 12.6 + OpenCore 0.8.5
 ## Compatible with
 
 - [x] Windows 10
-- [x] macOS Monterey Beta 12.6
+- [x] macOS Monterey 12.6
 
 ## What is working
 
