@@ -27,6 +27,10 @@
 - [x] Bootcamp**
 - [ ] You tell me.
 
-##How to install graphic card
+## How to install graphic card
 - Patch OpenCore Legacy Patcher 0.4.11 ( 0.5.0 and higher not working )
 - Clean and Reset NVram before Patch OpenCore Legacy Patcher
+
+## Screenshot
+
+![](SS.jpg) 
