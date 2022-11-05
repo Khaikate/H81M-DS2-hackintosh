@@ -25,9 +25,10 @@ macOS Monterey 12.6 + OpenCore 0.8.5
 - [x] Microphone (pink 3.5mm input)
 - [x] Speaker (green 3.5mm input)
 - [x] Services (App Store, Apple Music,...)
-- [x] Graphics card*
+- [x] Graphics card
 - [x] USB 2.0/3.0
-- [x] Bootcamp**
+- [x] Bootcamp
+- [x] HoRNDIS.kext
 - [ ] You tell me.
 
 ## How to install graphic card
