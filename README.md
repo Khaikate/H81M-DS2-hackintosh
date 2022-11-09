@@ -29,7 +29,7 @@ macOS Monterey 12.6 + OpenCore 0.8.5
 - [x] Graphics card
 - [x] USB 2.0/3.0
 - [x] Bootcamp
-- [x] HoRNDIS.kext
+- [x] HoRNDIS
 - [ ] You tell me.
 
 ## How to install graphic card
