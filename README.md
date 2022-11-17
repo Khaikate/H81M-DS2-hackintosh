@@ -1,4 +1,4 @@
-# H81M-DS2-1050TI
+# H81M-DS2-hackintosh
 
 ## PC specification
 
