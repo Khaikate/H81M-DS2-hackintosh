@@ -36,6 +36,12 @@ macOS Monterey 12.6 + OpenCore 0.8.6
 - Patch OpenCore Legacy Patcher 0.4.11 ( 0.5.0 and higher not working )
 - Clean and Reset NVram before Patch OpenCore Legacy Patcher
 
+## Configurations
+
+#### PlatformInfo
+`iMacPro1,1` smbios 
+You should set your own `MLB` / `ROM` / `SystemSerialNumber` / `SystemUUID` .
+
 ## Screenshot
 
 ![](SS.jpg) 
