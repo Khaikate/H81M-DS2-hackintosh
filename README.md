@@ -15,11 +15,10 @@ macOS Monterey 12.6 + OpenCore 0.8.6
 | Sound:  | Realtek ALC887 (best layout-id in my build is 3)  |
 | SMBIOS:  | iMacPro1,1  |
 
-## Compatible with
+## Software
 
-- [x] Windows 10
-- [x] macOS Monterey 12.6
-- [ ] macOS Ventura 13.0 (Graphics not working)
+- macOS Monterey 12.6
+- OpenCore 0.8.6
 
 ## What is working
 
