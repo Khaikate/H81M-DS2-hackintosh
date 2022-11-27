@@ -38,10 +38,6 @@ macOS Monterey 12.6 + OpenCore 0.8.6
 
 ## Configurations
 
-#### PlatformInfo
--`iMacPro1,1` smbios .
--You should set your own `MLB` / `ROM` / `SystemSerialNumber` / `SystemUUID` .
-
 ## Screenshot
 
 ![](SS.jpg) 
