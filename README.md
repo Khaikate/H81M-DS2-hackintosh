@@ -2,9 +2,6 @@
 
 ## PC specification
 
-macOS Monterey 12.6 + OpenCore 0.8.6
-
-
 | Part  | Info |
 | ------------- | ------------- |
 | Mainboard | Gigabyte H81M-DS2 |
@@ -32,9 +29,8 @@ macOS Monterey 12.6 + OpenCore 0.8.6
 - [ ] You tell me.
 
 ## How to install graphic card
-- Patch OpenCore Legacy Patcher 0.4.11 ( 0.5.0 and higher not working )
-- Clean and Reset NVram before Patch OpenCore Legacy Patcher
-
+- macOS Monterey : OpenCore Legacy Patcher 0.4.11
+- macOS Ventura : Waiting...
 ## Configurations
 
 ## Screenshot
