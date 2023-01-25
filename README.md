@@ -15,6 +15,7 @@
 ## Software
 
 - macOS Monterey 12.6
+- macOS Ventura 13.2
 - OpenCore 0.8.8
 
 ## What is working
@@ -30,9 +31,10 @@
 
 ## How to install graphic card
 - macOS Monterey : OpenCore Legacy Patcher 0.4.11
-- macOS Ventura : Waiting...
+- macOS Ventura : OpenCore Legacy Patcher 0.6.1
 ## Configurations
 
 ## Screenshot
 
-![](SS.jpg) 
+![](SSM.jpg) 
+![](SSV.jpg) 
