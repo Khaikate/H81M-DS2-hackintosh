@@ -15,7 +15,7 @@
 ## Software
 
 - macOS Monterey 12.6
-- OpenCore 0.8.7
+- OpenCore 0.8.8
 
 ## What is working
 
