@@ -1099,7 +1099,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>shikigva=40 keepsyms=1 debug=0x100 alcid=3 nvda_drv_vrl=1 nvda_drv=1 amfi_get_out_of_my_way=0x1 ngfxcompat=1 ngfxgl=1 -no_compat_check ipc_control_port_options=0</string>
+				<string>-v shikigva=40 keepsyms=1 debug=0x100 alcid=3 nvda_drv_vrl=1 nvda_drv=1 amfi_get_out_of_my_way=0x1 ngfxcompat=1 ngfxgl=1 -no_compat_check ipc_control_port_options=0</string>
 				<key>nvda_drv</key>
 				<data>MQ==</data>
 				<key>csr-active-config</key>
