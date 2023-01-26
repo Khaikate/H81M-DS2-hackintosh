@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 | Mainboard | Gigabyte H81M-DS2 |
 | CPU:  | Intel Xeon E3-1240 v3 (Haswell, 3,40 GHZ up to 3.80 GHz, 4 core 8 thread)  |
-| RAM:  | 8GB (DDR3)  |
+| RAM:  | 16GB (DDR3)  |
 | GPU:  | NVIDIA Geforce GTX 1050TI (GP107, 128bit, 4GB GDDR5) |
 | Network: | Realtek RTL8111 |
 | Sound:  | Realtek ALC887 (best layout-id in my build is 3)  |
