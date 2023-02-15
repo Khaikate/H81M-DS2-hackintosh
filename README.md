@@ -16,7 +16,7 @@
 
 - macOS Monterey 12.6
 - macOS Ventura 13.2
-- OpenCore 0.8.8
+- OpenCore 0.8.9
 
 ## What is working
 
