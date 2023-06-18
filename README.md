@@ -14,9 +14,23 @@
 
 ## Software
 
-- macOS Monterey 12.6
-- macOS Ventura 13.2
-- OpenCore 0.9.0
+- macOS Monterey 12
+- macOS Ventura 13
+- OpenCore 0.9.3
+
+## Compatible with
+- Windows 10
+- macOS Monterey 12
+- macOS Ventura 13
+- Linux
+
+## KEXT
+- AppleALC : 1.8.3
+- Lilu : 1.6.6
+- RealtekRTL8111 : 2.4.2
+- USBInjectAll: 0.8.0
+- VirtualSMC : 1.3.2
+- WhateverGreen : 1.6.5
 
 ## What is working
 
@@ -30,9 +44,7 @@
 - [ ] You tell me.
 
 ## How to install graphic card
-- macOS Monterey : OpenCore Legacy Patcher 0.4.11
-- macOS Ventura : OpenCore Legacy Patcher 0.6.1
-## Configurations
+- macOS Monterey, Ventura : OpenCore Legacy Patcher 0.6.x
 
 ## Screenshot
 
